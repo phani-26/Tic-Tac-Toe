@@ -1,4 +1,4 @@
-'
+```
 #include<iostream>
 #include<vector>
 #include<limits.h>
@@ -200,4 +200,4 @@ for(int i=0;i<3;i++){
     cout<<endl;
     }
 }
-'
+```
